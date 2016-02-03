@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SMailer", "SMailer\SMailer.vcproj", "{1537FFDC-3190-49EA-84ED-AF9AB62A6E89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1537FFDC-3190-49EA-84ED-AF9AB62A6E89}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1537FFDC-3190-49EA-84ED-AF9AB62A6E89}.Debug|Win32.Build.0 = Debug|Win32
+		{1537FFDC-3190-49EA-84ED-AF9AB62A6E89}.Release|Win32.ActiveCfg = Release|Win32
+		{1537FFDC-3190-49EA-84ED-AF9AB62A6E89}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
